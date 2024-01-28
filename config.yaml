@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Example Site
+title: Nonex 的簿逻阁
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -27,19 +27,19 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: \favicon.ico
 
     footer:
-        since: 2020
-        customText:
+        since: 2024-01-08
+        customText: 世界以其不变的意志，将你我于时间上涂写为痕
 
     dateFormat:
         published: Jan 02, 2006
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 
+        subtitle: 心如欲壑，后土难填
         avatar:
             enabled: true
             local: true
@@ -188,17 +188,27 @@ menu:
               icon: home
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-              icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: telegram
+          name: telegram
+          weight: 1
+          url: 'https://t.me/NEXISTS'
           params:
-              icon: brand-twitter
+              icon: telegram
+
+        - identifier: bangumi
+          name: bangumi
+          weight: 2
+          url: 'https://bangumi.tv/user/nonexistentx'
+          params:
+              icon: bangumi
+
+        - identifier: RSS
+          name: RSS
+          weight: 3
+          url: /index.xml
+          params:
+              icon: rss
 
 related:
     includeNewer: true
@@ -228,3 +238,4 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+        style: onedark
