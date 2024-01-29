@@ -6,14 +6,20 @@ slug: "links"
 layout: links
 comments: false
 license: false
+hidden: true
 menu: 
     main:
-        name: friends
+        name: Friends
         weight: -90
         params:
-            icon: home
+            icon: link
         
 ---
+
+```
+修改 \assets\scss\custom.scss  .menu 以展示
+```
+
 <style>
 .article-header {
     display: none;

@@ -1,34 +1,38 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
+description: 簿逻阁的终结
 date: '2019-02-28'
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+# license: CC BY-NC-ND
+lastmod: '2024-1-29'
 menu:
     main: 
         weight: -90
         params:
             icon: user
 ---
+## &emsp;&emsp;All done.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+&emsp;&emsp;是的，结束了。这就是这个站短暂生命历程的重点，但这次我希望它以一种不一样的方式结束——没有滥情、眷念和张扬。
 
-Hugo makes use of a variety of open source projects including:
+&emsp;&emsp;遥想它的诞生，不过是对新鲜事物的好奇。从内心中萌发出的不值一提的写作想法却是在更早之前。起初，吸引我的是这种隐秘性的表现欲在早期的互联网形式上的弥漫。同时不为平台造成的监视感困扰的同时不为自己真实内心的暴露所担心，这刺激了那颗作为写作契机的种子。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+&emsp;&emsp;不过想法大部分时候总是优于事实的，自由同时意味着解脱的枷锁和丢失目标的不知所措。再加之本人更是陷入了唯工具论（高效率的生产工具）而忽视了人不去使用的可能，在这种谁也没想到但也能在三秒内以人的思维迅速接受的一种“海的那边是敌人”的玩笑下，我被自由其自身作为新的枷锁套上了。毫无疑问，在网站建设后期（实则是一直都没有什么建设，谁也不喜欢看没有新意的重复抱怨，于是许多我都没有选择发布）我一面疲于生产内容，一面更是为网站迫使我继续写些什么而忍受苦楚时，我彻底放弃并忘记了整个本就是处在「世界一隅」的自己的blog。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## &emsp;&emsp;Redust, but Reborn.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+&emsp;&emsp;既不是出于偶然，也不是出于计划，它诞生了。
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+&emsp;&emsp;这其实没有什么太重大的意义，我大可以把网站文章原封不动搬过去，改一个外观之后接着“勤奋”的建设，或是继续在已有的网站上继续偷懒。但是人总是喜欢给事物寻找意义，我一定不是第一个废弃旧网站而重新运营一个新网站，但我这么做了，多多少少能说理解并自大的为别人也一起解释吧：在保留「旧」的同时得到「新」，这本就让人高兴，若是日后能在两者上看出上看出差异，那也不免是一个趣事。再加上深受中二思维影响，觉得「重生」的概念很酷，仪式性的兴许能杀死自己身上的某些不好的东西，这么一想就干脆就这么用吧。而更是一种出于洁癖的考虑，不愿意新事物为自己以前的行为所糟蹋，就把见不得人的东西继续放到角落里吧。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+&emsp;&emsp;所以这就是[eden](https://eden.tk)了
+
+![](https://cdn.jsdelivr.net/gh/Nonexistentx/Picbed@main/img/SharedScreenshot.png)_eden.tk_
+
+![](https://cdn.jsdelivr.net/gh/Nonexistentx/Picbed@main/img/SharedScreenshot.jpg)
+
+-------
+<font size="30"><b><center> 那么，期待新的「重生」</center></b></font>

@@ -43,9 +43,12 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 */
 :root {
     --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
-    --zh-font-family: "Noto Serif SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
-    --base-font-family: "Noto Serif SC", var(--sys-font-family), var(--zh-font-family), sans-serif;
-    --code-font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    // --zh-font-family: "Noto Serif SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
+    // --base-font-family: "Noto Serif SC", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    // --code-font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    --zh-font-family: "LXGW WenKai Lite";
+    --base-font-family: var(--zh-font-family), sans-serif;
+    --code-font-family: "Cascadia Code", var(--zh-font-family), monospace;
 }
 
 /*

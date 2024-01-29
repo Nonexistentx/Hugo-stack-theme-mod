@@ -34,8 +34,19 @@
         }
 
         .article-content {
-            margin: var(--card-padding) 0;
-            color: var(--card-text-color-main);
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                margin-inline-start: calc((var(--card-padding)) * -1);
+                padding-inline-start: calc(
+                var(--card-padding) - var(--heading-border-size)
+                );}
+
+            // margin: var(--card-padding) 0;
+            // color: var(--card-text-color-main);
 
             img {
                 max-width: 100%;

@@ -137,3 +137,10 @@ blockquote.quote {
     color: #fff;
     background: #34495e;
 }
+
+.menu{
+    li:nth-child(3) {
+        display: none;
+      }
+    // display: none;
+}

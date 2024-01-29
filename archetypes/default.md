@@ -1,11 +1,16 @@
 ---
+
 title: "{{ replace .Name "-" " " | title }}"
+slug: "{{ replace .Name "-" " " | title }}"
 description: 
-date: {{ .Date }}
+date: "{{ .Date }}"
+lastmod: "{{ .Date }}"
 image: 
-math: 
+math: true
 license: 
 hidden: false
-comments: true
-draft: true
+draft: false 
+categories: [""]
+tags: [""]
+
 ---
