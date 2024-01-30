@@ -1,5 +1,5 @@
 ---
-title: "Archives"
+title: "记录"
 date: 2019-05-28
 layout: "archives"
 slug: "archives"
