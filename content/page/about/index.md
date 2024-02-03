@@ -1,7 +1,7 @@
 ---
 title: "你是？"
 description: 簿逻阁的终结
-date: '2019-02-28'
+date: '2024-01-29'
 slug: "about"
 aliases:
   - about-us
