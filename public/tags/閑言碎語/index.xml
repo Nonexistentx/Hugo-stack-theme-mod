@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>閑言碎語 on Nonex 的簿逻阁</title>
+    <link>http://localhost:1313/tags/%E9%96%91%E8%A8%80%E7%A2%8E%E8%AA%9E/</link>
+    <description>Recent content in 閑言碎語 on Nonex 的簿逻阁</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 03 Feb 2024 01:20:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%96%91%E8%A8%80%E7%A2%8E%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>药和毒</title>
+      <link>http://localhost:1313/2024/%E8%8D%AF%E5%92%8C%E6%AF%92/</link>
+      <pubDate>Sat, 03 Feb 2024 01:20:25 +0800</pubDate>
+      <guid>http://localhost:1313/2024/%E8%8D%AF%E5%92%8C%E6%AF%92/</guid>
+      <description>当父母开始考虑：“这一个孩子我一定要好好教育”的时候，他们大概率会重蹈覆辙吧。跳脱不了一些既定的模式，只能在原有成因的结果里持续产生现有意义</description>
+    </item>
+  </channel>
+</rss>

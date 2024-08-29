@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nonex 的簿逻阁</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Nonex 的簿逻阁</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 Aug 2024 00:15:54 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>过去的余音</title>
+      <link>http://localhost:1313/2024/%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BD%99%E9%9F%B3/</link>
+      <pubDate>Fri, 30 Aug 2024 00:15:54 +0800</pubDate>
+      <guid>http://localhost:1313/2024/%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BD%99%E9%9F%B3/</guid>
+      <description>Writed to tomorrow 由昨天的我，写给今天的我。 迫切的、迫切的，感受此刻吧。 青春是雾霾，是水流。是不能捕获的动态。 当你感受它时，一种炙热的、怀念的感觉，从过</description>
+    </item>
+    <item>
+      <title>享乐遗憾吧！</title>
+      <link>http://localhost:1313/2024/%E4%BA%AB%E4%B9%90%E9%81%97%E6%86%BE%E5%90%A7/</link>
+      <pubDate>Sat, 27 Jul 2024 16:55:00 +0800</pubDate>
+      <guid>http://localhost:1313/2024/%E4%BA%AB%E4%B9%90%E9%81%97%E6%86%BE%E5%90%A7/</guid>
+      <description>今天，我丢掉了我的kindle。 准确来说，那不是被丢掉，而是被迫丢掉般的被遗落了，反应过来时，它已经从它原来的位置消失了。 同行的还有陪伴我两</description>
+    </item>
+    <item>
+      <title>焚毁约定</title>
+      <link>http://localhost:1313/2024/%E7%84%9A%E6%AF%81%E7%BA%A6%E5%AE%9A/</link>
+      <pubDate>Sat, 30 Mar 2024 23:37:27 +0800</pubDate>
+      <guid>http://localhost:1313/2024/%E7%84%9A%E6%AF%81%E7%BA%A6%E5%AE%9A/</guid>
+      <description>在我写下这段文字的时候，距离我阳历23岁生日还有整整22分钟。不出意外的话在完成这篇文字时正好会是我生日当天。 并非是要缅怀自己什么或是对早已</description>
+    </item>
+    <item>
+      <title>药和毒</title>
+      <link>http://localhost:1313/2024/%E8%8D%AF%E5%92%8C%E6%AF%92/</link>
+      <pubDate>Sat, 03 Feb 2024 01:20:25 +0800</pubDate>
+      <guid>http://localhost:1313/2024/%E8%8D%AF%E5%92%8C%E6%AF%92/</guid>
+      <description>当父母开始考虑：“这一个孩子我一定要好好教育”的时候，他们大概率会重蹈覆辙吧。跳脱不了一些既定的模式，只能在原有成因的结果里持续产生现有意义</description>
+    </item>
+    <item>
+      <title>欲望和梦</title>
+      <link>http://localhost:1313/2024/%E6%AC%B2%E6%9C%9B%E5%92%8C%E6%A2%A6/</link>
+      <pubDate>Sat, 03 Feb 2024 00:49:54 +0800</pubDate>
+      <guid>http://localhost:1313/2024/%E6%AC%B2%E6%9C%9B%E5%92%8C%E6%A2%A6/</guid>
+      <description>我最近开始做梦，开始逐渐能记住梦的内容，梦的元素很多，但共同点在于它们都出现了相同的元素，那些关于我自身的隐秘体验，亦或说：对象a。我重新翻</description>
+    </item>
+    <item>
+      <title>第一本书</title>
+      <link>http://localhost:1313/2024/%E7%AC%AC%E4%B8%80%E6%9C%AC%E4%B9%A6/</link>
+      <pubDate>Wed, 31 Jan 2024 16:41:29 +0800</pubDate>
+      <guid>http://localhost:1313/2024/%E7%AC%AC%E4%B8%80%E6%9C%AC%E4%B9%A6/</guid>
+      <description>卡尔维诺为自己的第一本书《通向蜘蛛巢的小径》作序写道： 这是我写的第一部小说，差不多也是我写的第一个作品。今天我能就它说些什么呢？我要说：最好</description>
+    </item>
+  </channel>
+</rss>
