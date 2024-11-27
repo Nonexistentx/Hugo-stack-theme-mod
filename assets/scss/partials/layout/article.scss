@@ -67,7 +67,7 @@
                 text-transform: uppercase;
                 display: flex;
                 align-items: center;
-                font-size: 2rem;
+                font-size: 1.4rem;
 
                 svg {
                     width: 20px;
@@ -107,7 +107,7 @@
         margin-right: 30px;
         display: inline-flex;
         align-items: center;
-        font-size: 2rem;
+        font-size: 1.4rem;
         text-transform: uppercase;
         padding: 10px 20px 10px 15px;
 
@@ -271,7 +271,7 @@
         box-shadow: var(--shadow-l2);
 
         .article-title {
-            font-size: 2rem;
+            font-size: 1.4rem;
             margin: auto;
             justify-content: center;
         }
@@ -310,7 +310,7 @@
         text-align: center;
 
         figcaption {
-            font-size: 2rem;
+            font-size: 1.4rem;
             color: var(--card-text-color-secondary);
         }
     }
