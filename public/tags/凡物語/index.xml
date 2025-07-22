@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>凡物語 on Nonex 的簿逻阁</title>
-    <link>http://localhost:1313/tags/%E5%87%A1%E7%89%A9%E8%AA%9E/</link>
+    <link>https://undeadesire.top/tags/%E5%87%A1%E7%89%A9%E8%AA%9E/</link>
     <description>Recent content in 凡物語 on Nonex 的簿逻阁</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Jul 2024 16:55:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%87%A1%E7%89%A9%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jul 2024 16:55:00 +0800</lastBuildDate><atom:link href="https://undeadesire.top/tags/%E5%87%A1%E7%89%A9%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>享乐遗憾吧！</title>
-      <link>http://localhost:1313/2024/%E4%BA%AB%E4%B9%90%E9%81%97%E6%86%BE%E5%90%A7/</link>
+      <link>https://undeadesire.top/2024/%E4%BA%AB%E4%B9%90%E9%81%97%E6%86%BE%E5%90%A7/</link>
       <pubDate>Sat, 27 Jul 2024 16:55:00 +0800</pubDate>
-      <guid>http://localhost:1313/2024/%E4%BA%AB%E4%B9%90%E9%81%97%E6%86%BE%E5%90%A7/</guid>
+      
+      <guid>https://undeadesire.top/2024/%E4%BA%AB%E4%B9%90%E9%81%97%E6%86%BE%E5%90%A7/</guid>
       <description>今天，我丢掉了我的kindle。 准确来说，那不是被丢掉，而是被迫丢掉般的被遗落了，反应过来时，它已经从它原来的位置消失了。 同行的还有陪伴我两</description>
     </item>
+    
   </channel>
 </rss>

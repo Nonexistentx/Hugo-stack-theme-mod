@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>声物語 on Nonex 的簿逻阁</title>
-    <link>http://localhost:1313/tags/%E5%A3%B0%E7%89%A9%E8%AA%9E/</link>
+    <link>https://undeadesire.top/tags/%E5%A3%B0%E7%89%A9%E8%AA%9E/</link>
     <description>Recent content in 声物語 on Nonex 的簿逻阁</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 30 Aug 2024 00:15:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%A3%B0%E7%89%A9%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2024 00:15:54 +0800</lastBuildDate><atom:link href="https://undeadesire.top/tags/%E5%A3%B0%E7%89%A9%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>过去的余音</title>
-      <link>http://localhost:1313/2024/%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BD%99%E9%9F%B3/</link>
+      <link>https://undeadesire.top/2024/%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BD%99%E9%9F%B3/</link>
       <pubDate>Fri, 30 Aug 2024 00:15:54 +0800</pubDate>
-      <guid>http://localhost:1313/2024/%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BD%99%E9%9F%B3/</guid>
+      
+      <guid>https://undeadesire.top/2024/%E8%BF%87%E5%8E%BB%E7%9A%84%E4%BD%99%E9%9F%B3/</guid>
       <description>Writed to tomorrow 由昨天的我，写给今天的我。 迫切的、迫切的，感受此刻吧。 青春是雾霾，是水流。是不能捕获的动态。 当你感受它时，一种炙热的、怀念的感觉，从过</description>
     </item>
+    
   </channel>
 </rss>
