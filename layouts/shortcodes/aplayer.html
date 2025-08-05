@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<div id="aplayer-{{ .Get "id" | default (now.Unix) }}"></div>
+
+<script>
+  new APlayer({
+    container: document.getElementById('aplayer-{{ .Get "id" | default (now.Unix) }}'),
+    audio: [{
+      name: '{{ .Get "name" | default "未命名音频" }}',
+      artist: '{{ .Get "artist" | default "未知" }}',
+      url: '{{ .Get "url" }}',
+      cover: '{{ .Get "cover" | default "https://cdn.jsdelivr.net/gh/metowolf/music@latest/cover/1.jpg" }}'
+    }]
+  });
+</script>
